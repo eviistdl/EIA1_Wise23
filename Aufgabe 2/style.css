@@ -1,0 +1,31 @@
+.intro{
+    color:whitesmoke;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 50px;
+    position: absolute;
+    top: 150px;
+    left: 100px;
+    padding: 15px;
+}
+
+.middle{
+    color:whitesmoke;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 50px;
+    position: absolute;
+    top: 150px;
+    left: 500px;
+}
+
+.outro{
+    color:whitesmoke;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 50px;
+    position: absolute;
+    top: 150px;
+    left: 900px;
+}
+
+html{
+    background-color: rgb(52, 9, 9);
+}
