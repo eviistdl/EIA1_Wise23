@@ -1,0 +1,11 @@
+html{
+    background-color: rgb(9, 43, 52);
+    border: 2px solid #bbe0bb;
+    padding: 50px;
+    color: whitesmoke;
+    position: relative;
+    top: 200px;
+    left: calc((100% - 400px)/2) ;
+    width: 400px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
